@@ -1,3 +1,3 @@
-# Wonder Bloons Landing/Status page
+# Wonder Bloons Main page
 
-The server status page for Wonder Bloons.
+The main page for Wonder Bloons.
