@@ -2268,22 +2268,39 @@ input, select, textarea {
 		.icon.style1 {
 			color: #efa8b0;
 		}
-
+		
 		.icon.style2 {
-			color: #c79cc8;
+			color: #FC8EAC;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #DE5D83;
 		}
 
 		.icon.style4 {
-			color: #9bb2e1;
+			color: #c79cc8;
 		}
 
 		.icon.style5 {
+			color: #a89cc8;
+		}
+
+		.icon.style6 {
+			color: #9bb2e1;
+		}
+
+		.icon.style7 {
 			color: #8cc9f0;
 		}
+
+		.icon.style8 {
+			color: #1ca9c9;
+		}
+
+		.icon.style9 {
+			color: #0abab5;
+		}
+
 
 		@media screen and (max-width: 1680px) {
 
@@ -2338,7 +2355,7 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		border-radius: 8px;
+		
 		border: 0;
 		display: inline-block;
 		position: relative;
@@ -2346,7 +2363,7 @@ input, select, textarea {
 	}
 
 		.image img {
-			border-radius: 8px;
+			
 			display: block;
 		}
 
